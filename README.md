@@ -17,9 +17,12 @@
   <a href="https://twitter.com/amalviju">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://www.instagram.com/amalviju/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h2 align="center">🚀 Some Tools and Technologies I Use</h2>
+<h2 align="center">🚀 Technologies & Tools</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" />
@@ -30,20 +33,54 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
 </p>
 
-<h2 align="center">🛠️ My Projects</h2>
+<h2 align="center">📂 My Projects</h2>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+      <td><b>Technologies</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/amalviju/project1">Project 1</a></td>
+      <td>Comprehensive description of project 1, including its purpose, features, and any notable achievements or results.</td>
+      <td>HTML, CSS, JavaScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amalviju/project2">Project 2</a></td>
+      <td>Comprehensive description of project 2, including its purpose, features, and any notable achievements or results.</td>
+      <td>Python, Flask, Docker</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amalviju/project3">Project 3</a></td>
+      <td>Comprehensive description of project 3, including its purpose, features, and any notable achievements or results.</td>
+      <td>PHP, MySQL</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 align="center">📝 Blog Posts</h2>
 <ul>
-  <li><strong>Project 1:</strong> Description of project 1.</li>
-  <li><strong>Project 2:</strong> Description of project 2.</li>
-  <li><strong>Project 3:</strong> Description of project 3.</li>
+  <li><a href="https://myblog.com/post1">How to Build a REST API with Flask</a></li>
+  <li><a href="https://myblog.com/post2">Top 10 JavaScript Frameworks in 2024</a></li>
+  <li><a href="https://myblog.com/post3">Getting Started with Docker for Developers</a></li>
 </ul>
 
-<h2 align="center">📖 About Me</h2>
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amalviju&show_icons=true&theme=radical" alt="Amal's GitHub stats" />
+</p>
 
-- 👋 Hi, I’m @amalviju
-- 👀 I’m interested in web development, data science, and open-source projects.
-- 🌱 I’m currently learning advanced JavaScript and exploring AI technologies.
-- 💞️ I’m looking to collaborate on innovative projects that make a positive impact.
-- 📫 How to reach me: [Email me](mailto:amalviju@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/amalviju).
+<h2 align="center">💬 About Me</h2>
+<p align="center">
+  👋 Hi, I’m @amalviju<br>
+  👀 I’m interested in web development, data science, and open-source projects.<br>
+  🌱 I’m currently learning advanced JavaScript and exploring AI technologies.<br>
+  💞️ I’m looking to collaborate on innovative projects that make a positive impact.<br>
+  📫 How to reach me: <a href="mailto:amalviju@example.com">Email me</a> or connect with me on <a href="https://www.linkedin.com/in/amalviju">LinkedIn</a>.<br>
+</p>
 
 <h2 align="center">🌐 Let's Connect</h2>
 <p align="center">
