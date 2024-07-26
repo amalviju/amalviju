@@ -44,19 +44,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/amalviju/project1">Project 1</a></td>
-      <td>Comprehensive description of project 1, including its purpose, features, and any notable achievements or results.</td>
-      <td>HTML, CSS, JavaScript</td>
+      <td><a href="https://github.com/amalviju/DigitalOcean-Connect">DigitalOcean-Connect</a></td>
+      <td>WordPress plugin to connect to DigitalOcean, allowing you to set a custom domain.</td>
+      <td>PHP, REST API</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/amalviju/project2">Project 2</a></td>
-      <td>Comprehensive description of project 2, including its purpose, features, and any notable achievements or results.</td>
-      <td>Python, Flask, Docker</td>
+      <td><a href="https://github.com/amalviju/kwtsms">KWTSMS</a></td>
+      <td>Bulk SMS WordPress plugin for WooCommerce.</td>
+      <td>PHP, WooCommerce</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/amalviju/project3">Project 3</a></td>
-      <td>Comprehensive description of project 3, including its purpose, features, and any notable achievements or results.</td>
-      <td>PHP, MySQL</td>
+      <td><a href="https://github.com/amalviju/LikeCard">LikeCard</a></td>
+      <td>Reseller plugin for WordPress to integrate with LikeCard services.</td>
+      <td>PHP, REST API</td>
     </tr>
   </tbody>
 </table>
